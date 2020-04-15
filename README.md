@@ -25,7 +25,7 @@ pyinstalive -b "my_text_file.txt"
 ### getting posts
 
 
-pip3 install instagram-scraper
+````pip3 install instagram-scraper````
 
 https://github.com/rarcega/instagram-scraper
 
@@ -43,13 +43,15 @@ https://ytdl-org.github.io/youtube-dl/index.html
 
 ### facebook live video
 
-pip3 install fb-down
+````pip3 install fb-down````
 
 https://pypi.org/project/fb-down/ 
 
 fbdown https://www.facebook.com/some_fb_account/videos/____________/
 
+##Tiktok
 
+See helper file in tiktok folder
 
 
 
