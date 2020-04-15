@@ -47,7 +47,9 @@ https://ytdl-org.github.io/youtube-dl/index.html
 
 https://pypi.org/project/fb-down/ 
 
-fbdown https://www.facebook.com/some_fb_account/videos/____________/
+URL for the video. 
+
+````fbdown https://www.facebook.com/some_fb_account/videos/____________/````
 
 ## Tiktok
 
