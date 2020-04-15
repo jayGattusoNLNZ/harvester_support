@@ -16,11 +16,11 @@ https://github.com/dvingerh/PyInstaLive
 
 You have a 24 hour window to grab any livestream archive via the insta username: 
 
-pyinstalive -d "interesting_insta_account"
+````pyinstalive -d "interesting_insta_account"````
 
 You can alo use a text file of accounts to d a batch, one account per line
 
-pyinstalive -b "my_text_file.txt"
+````pyinstalive -b "my_text_file.txt"````
 
 ### getting posts
 
@@ -29,7 +29,7 @@ pyinstalive -b "my_text_file.txt"
 
 https://github.com/rarcega/instagram-scraper
 
-instagram-scraper intersting_insta_account -u  my_insta_account -p my_insta_password
+````instagram-scraper intersting_insta_account -u  my_insta_account -p my_insta_password````
 
 This gets everything. We need to find a way of filtering by date/time. Thats on me. I'll whip up a helper if its needed. 
 
@@ -49,7 +49,7 @@ https://pypi.org/project/fb-down/
 
 fbdown https://www.facebook.com/some_fb_account/videos/____________/
 
-##Tiktok
+## Tiktok
 
 See helper file in tiktok folder
 
