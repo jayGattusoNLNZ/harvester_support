@@ -10,7 +10,7 @@ You need an instagram account and password for these.
 
 ### getting live streams
 
-````pip3 install pyinstalive
+````pip3 install pyinstalive````
 
 https://github.com/dvingerh/PyInstaLive
 
