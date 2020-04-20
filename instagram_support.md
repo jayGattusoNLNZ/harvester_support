@@ -10,11 +10,11 @@ We can't really share accounts, because instagram looks for multiple access/logo
 
 You need python (v3.x) for this to work.
 
-from commandline: 
+From commandline...
 
-Navigate to a sensible folder on your machine. 
+Navigate to/make a sensible folder on your machine. 
 
-````c:\projects\harvests\instgram_tools````
+````c:\projects\harvests\instagram_live````
 
 Then install the tool:
 
@@ -61,9 +61,28 @@ This will start a process that watches the accounts and gets any video/live stre
 It stops when you close the commandline window. 
 
 ## getting posts
-pip3 install instagram-scraper
+
+You need python (v3.x) for this to work 
+
+From commandline...
+
+Navigate to/make a sensible folder on your machine. 
+
+````c:\projects\harvests\instagram_scraper````
+
+Then install the tool:
+
+````pip3 install instagram-scraper````
+
+Notes and code here 
 
 https://github.com/rarcega/instagram-scraper
+
+To work it, you need to be at commandline, naviate to where you want your harvests to be saved, and then run the tool
+
+from the notes: 
+
+Providing username and password is optional, if not supplied the scraper runs as a guest. Note: In this case all private user's media will be unavailable. All user's stories and high resolution profile pictures will also be unavailable.
 
 instagram-scraper intersting_insta_account -u my_insta_account -p my_insta_password
 
