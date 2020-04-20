@@ -84,6 +84,6 @@ from the notes:
 
 Providing username and password is optional, if not supplied the scraper runs as a guest. Note: In this case all private user's media will be unavailable. All user's stories and high resolution profile pictures will also be unavailable.
 
-instagram-scraper intersting_insta_account -u my_insta_account -p my_insta_password
+````instagram-scraper intersting_insta_account -u my_insta_account -p my_insta_password````
 
 This gets everything. We need to find a way of filtering by date/time. Thats on me. I'll whip up a helper if its needed
